@@ -1,0 +1,15 @@
+Weather-App
+Check the weather around you and all over the world at a glance.
+Rely on the accurate weather forecast and adjust your schedule to the weather coming in.
+You won’t even have to look out the window as the app will make you feel like you are already outside!
+Weather is sometimes difficult to predict. 
+This accurate weather app allows to find out a detailed forecast wherever you are, for any time of the day by tapping on the icons:
+
+. Current and “Feels like” temperature
+. Wind speed and direction
+. Pressure and precipitation information
+. Sunrise/sunset time
+. Weather Radar & Rain maps
+
+Sample-Image
+![Screenshot (8)](https://user-images.githubusercontent.com/93308342/185560048-dc8d38dd-929a-43f9-a7bd-919fac18b354.png)
